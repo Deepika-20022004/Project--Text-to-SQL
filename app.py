@@ -36,7 +36,7 @@ prompt = [
 ]
 
 # Streamlit App
-st.set_page_config(page_title="I can retrieve any SQL query")
+st.set_page_config(page_title="Text to SQL")
 st.header("Gemini App To Retrieve Any SQL Data")
 st.markdown("""
 - ##### This tool allows users to ask natural language questions, and the system will generate and execute the corresponding SQL query.  

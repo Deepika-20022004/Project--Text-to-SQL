@@ -1,6 +1,8 @@
 # Text to SQL using Gemini 2.0 Flash
 
-This project is a Streamlit web application that converts natural language questions into SQL queries. It leverages the power of Google's Gemini 2.0 Flash model to understand the user's intent and generate the corresponding SQL code.
+- This project is a Streamlit web application that converts natural language questions into SQL queries. 
+- It leverages the power of Google's Gemini 2.0 Flash model to understand the user's intent and generate the corresponding SQL code.
+- Check it out: https://project--text-to-sql-keyo6jqrpzja5qkj94ujlo.streamlit.app/
 
 ## Features
 
