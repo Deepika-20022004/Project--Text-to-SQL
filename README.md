@@ -26,7 +26,7 @@ This project is a Streamlit web application that converts natural language quest
 
 1.  **Clone the repository:**
     ```
-    git clone https://github.com/your-username/Project--Text-to-SQL.git
+    git clone https://github.com/Deepika-20022004/Project--Text-to-SQL.git
     cd Project--Text-to-SQL
     ```
 2.  **Create a virtual environment:**
